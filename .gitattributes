@@ -1,0 +1,9 @@
+Content/Animations/** filter=lfs diff=lfs merge=lfs -text
+Content/BuildingMeshes/** filter=lfs diff=lfs merge=lfs -text
+Content/Cinematic/** filter=lfs diff=lfs merge=lfs -text
+Content/Maps/** filter=lfs diff=lfs merge=lfs -text
+Content/Materials/** filter=lfs diff=lfs merge=lfs -text
+Content/Meshes/** filter=lfs diff=lfs merge=lfs -text
+Content/Plants/** filter=lfs diff=lfs merge=lfs -text
+Content/SkeletalMeshes/** filter=lfs diff=lfs merge=lfs -text
+Content/textures/** filter=lfs diff=lfs merge=lfs -text
