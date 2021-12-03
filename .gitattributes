@@ -7,3 +7,4 @@ Content/Meshes/** filter=lfs diff=lfs merge=lfs -text
 Content/Plants/** filter=lfs diff=lfs merge=lfs -text
 Content/SkeletalMeshes/** filter=lfs diff=lfs merge=lfs -text
 Content/textures/** filter=lfs diff=lfs merge=lfs -text
+Content/MODIFIED_ASSETS/* filter=lfs diff=lfs merge=lfs -text
